@@ -1,1 +1,16 @@
-# titanic_simple.csv
+PassengerId,Survived,Pclass,Sex,Age,Fare,Embarked
+1,0,3,male,22.0,7.25,S
+2,1,1,female,38.0,71.28,C
+3,1,3,female,26.0,7.92,S
+4,1,1,female,35.0,53.1,S
+5,0,3,male,35.0,8.05,S
+6,0,3,male,,8.45,Q
+7,0,1,male,54.0,51.86,S
+8,0,3,male,2.0,21.07,S
+9,1,3,female,27.0,11.13,S
+10,1,2,female,14.0,30.07,C
+11,1,3,female,4.0,16.7,S
+12,1,1,female,58.0,26.55,S
+13,0,3,male,20.0,8.05,S
+14,0,3,male,39.0,31.27,S
+15,0,3,female,14.0,7.85,S
